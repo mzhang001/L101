@@ -1,0 +1,1560 @@
+@RELATION email
+
+@ATTRIBUTE ##from string
+@ATTRIBUTE ##subject string
+@ATTRIBUTE ##body string
+@ATTRIBUTE ##embedded string
+@ATTRIBUTE ##class {LEGI,SPAM}
+
+@DATA
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '&NAME - F1 for &NAME : &NUM &NAME - F1 for &NAME : &NUM ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'I \'m not sure if such a corpus would be more use to spammers to overcome bogofilter ( see feature article in &NAME Scientist about a month ago - hide some genuine text into a spam email to tip the probabilities all wrong ) , but anyway . I \'m not sure if such a corpus would be more use to spammers to overcome bogofilter ( see feature article in &NAME Scientist about a month ago - hide some genuine text into a spam email to tip the probabilities all wrong ) , but anyway . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'Is the timescale the primary problem , or the quality issue ? Is the timescale the primary problem , or the quality issue ? I decided to do the proofing myself to expedite things , but we could easily change that . I decided to do the proofing myself to expedite things , but we could easily change that . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'In order to set up a more concrete plan of action , we would like to hear from each of you about your willingness to submit an extended version of your paper ( not longer than &NUM pages ) to this book . In order to set up a more concrete plan of action , we would like to hear from each of you about your willingness to submit an extended version of your paper ( not longer than &NUM pages ) to this book . Please drop us a line in a reply to this message , so that we can have a preliminary list of contributors . Please drop us a line in a reply to this message , so that we can have a preliminary list of contributors . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'I \'m not familiar with &NAME - which email program are you using ? I \'m not familiar with &NAME - which email program are you using ? ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '&NAME was this review ever sent to &NAME for &NUM / &NUM or was it not needed in the end ? &NAME was this review ever sent to &NAME for &NUM / &NUM or was it not needed in the end ? I presume its the review from &NAME &NAME from September . I presume its the review from &NAME &NAME from September . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '&WEBSITE &WEBSITE ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '  &NAME &NAME &NAME to_TO &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME ( _ ( &NAME ) _ ) &NAME &NAME &NAME to_TO &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME &NAME ( _ ( &NAME ) _ ) ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '# !/bin / csh # !/bin / csh ', LEGI
+'', '', 'I can confirm that &NAME &NAME worked for me at the University of &NAME from 1st January &NUM to 28th &NAME &NUM . I can confirm that &NAME &NAME worked for me at the University of &NAME from 1st January &NUM to 28th &NAME &NUM . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', ' ', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '&EMAIL &NUM / &NUM / &NUM &NUM : 43AM ) ) ) Hi &NAME , &EMAIL &NUM / &NUM / &NUM &NUM : 43AM ) ) ) Hi &NAME , ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '\' Master \'s Project , May &NUM \' \' Master \'s Project , May &NUM \' My &NAME engine is asking if that should be \' Masters \' My &NAME engine is asking if that should be \' Masters \' ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'chicken , egg ... egg , chicken , chicken ... chicken , egg ... egg , chicken , chicken ... mmmmmm . ... chicken ... mmmmmm . ... chicken ... I \'d probably go with the cun-man on this one , Is cun-man like piltdown-man , a meagre step on the evolutionary ladder towards &NAME \'s superman or , as we say in &NAME , &NAME ? I \'d probably go with the cun-man on this one , Is cun-man like piltdown-man , a meagre step on the evolutionary ladder towards &NAME \'s superman or , as we say in &NAME , &NAME ? ', LEGI
+'', '', '', LEGI
+'', '', 'chicken , egg ... egg , chicken , chicken ... chicken , egg ... egg , chicken , chicken ... mmmmmm . ... chicken ... mmmmmm . ... chicken ... I \'d probably go with the cun-man on this one , Is cun-man like piltdown-man , a meagre step on the evolutionary ladder towards &NAME \'s superman or , as we say in &NAME , &NAME ? I \'d probably go with the cun-man on this one , Is cun-man like piltdown-man , a meagre step on the evolutionary ladder towards &NAME \'s superman or , as we say in &NAME , &NAME ? ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'Theories of evolution of human cognition suggest very plausibly that the neocortex was evolved because of complex societies of our ancestors ( vertebrates with high neocortex / body ratio have complex societies ) . Theories of evolution of human cognition suggest very plausibly that the neocortex was evolved because of complex societies of our ancestors ( vertebrates with high neocortex / body ratio have complex societies ) . The society makes the individuals more complex , their abilities make the society more complex ... And all characteristics of human cognition are strongly linked to social abilities ( e.g. abstractly think what the other is thinking I am thinking , etc. ) The society makes the individuals more complex , their abilities make the society more complex ... And all characteristics of human cognition are strongly linked to social abilities ( e.g. abstractly think what the other is thinking I am thinking , etc. ) ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '&NAME &NAME , &NAME &NAME , &NAME is planning on taking a sabbatical to &NAME next &NAME for &NUM months . &NAME is planning on taking a sabbatical to &NAME next &NAME for &NUM months . Since it is desirable for her kids to go to &NAME &NAME , I thought I would put you &NUM in touch to see if you could arrange a house swap . Since it is desirable for her kids to go to &NAME &NAME , I thought I would put you &NUM in touch to see if you could arrange a house swap . ', LEGI
+'', ' ', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'What part of the course were these supervisions for ? What part of the course were these supervisions for ? I thought we wanted to discourage any supervisions beyond the tutorials . I thought we wanted to discourage any supervisions beyond the tutorials . &NAME &NAME &NAME &NAME wrote : &NAME &NAME wrote : I have a request from &NAME Geard for payment of maths support supervisions \' ( &NUM hrs ) on the &NAME &NAME . I have a request from &NAME Geard for payment of maths support supervisions \' ( &NUM hrs ) on the &NAME &NAME . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'I \'m on the frisbee , dude , I \'m on it ... I \'m on the frisbee , dude , I \'m on it ... ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', ' ', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', 'I \'m interested in doing one of your projects - is it a good idea to meet and discuss possibilities before the submission deadline on Friday ? I \'m interested in doing one of your projects - is it a good idea to meet and discuss possibilities before the submission deadline on Friday ? If so , would you mind letting me know when you \'re available . If so , would you mind letting me know when you \'re available . Also , I \'d like to discuss further-study possibilities with you at some point anyway . Also , I \'d like to discuss further-study possibilities with you at some point anyway . ', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', ' ', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+'', '', '', LEGI
+' ', '', '', LEGI
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', 'REFINANCE YOUR EXISTING MORTGAGE lower your payments REFINANCE YOUR EXISTING MORTGAGE lower your payments CONSOLIDATE YOUR DEBT simplify your life CONSOLIDATE YOUR DEBT simplify your life HOME EQUITY FINANCING get extra cash HOME EQUITY FINANCING get extra cash PURCHASE A HOME there \'s never been a better time PURCHASE A HOME there \'s never been a better time ', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+' ', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
+'', '', '', SPAM
